@@ -1,0 +1,3 @@
+*.pyc
+/assignment1/cs231n/datasets/cifar10-batches-py
+/assignment2/cs231n/datasets/cifar10-batches-py
